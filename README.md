@@ -6,4 +6,4 @@
 <p>-HTML</p>
 <p>-CSS</p>
 
-<img scr=" ">
+<img scr="https://github.com/RyanSilvaSantos/Segundo-Desafio-CSS/blob/main/img/ChatGPT%20Image%2011%20de%20mai.%20de%202025,%2011_23_23.png?raw=true">
